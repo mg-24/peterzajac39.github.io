@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Preco som na FIIT?"
+title: "Pome na pivo."
 date: 2014-04-30
 ---
 
-Prečo som na tejto vydrbanej skole ? 
+Pome na pivo das o 23:00 ... OK ? Lebo ak nepojdeme tak budem robit tieto fajnove blogy.

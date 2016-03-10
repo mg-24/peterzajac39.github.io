@@ -1,3 +1,4 @@
-name: Hank Quinlan, Horrible Cop
+name: Peter Zajac
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+gems: ["emoji_for_jekyll"]

@@ -7,11 +7,14 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
-
-<p>
+<br>
+<div style="text-align:center">
+	<span style="border: 2px solid; border-radius: 25px; padding: 10px 40px; background: #dddddd; text-align: center">
 	Museli ste tuto prečítať až 
 	<strong>{{ page.content | number_of_words }}</strong> slov.
-</p>
+</span>
+</div>
+<br>
 
 <!-- Post comments -->
 <div class="notecomments">

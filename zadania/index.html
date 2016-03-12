@@ -1,16 +1,40 @@
 ---
 layout: default
-title: Zadania WP
+title: Zadania WPUB
 ---
 
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+<!-- 	<ul class="posts">
 	
-	<ul>
+	<div class="panel panel-default">
+  <div class="panel-heading">Panel heading without title</div>
+  <div class="panel-body">
+    Panel content
+  </div>
+</div> -->
+
+<ul>
+	{% for zadania in site.data.zadania %}
+ 	 <li>
+<div class="panel panel-default">
+  <a href={{ zadania.link }} style="text-decoration: none">
+  <div class="panel-heading">
+    <h3 class="panel-title">{{ zadania.nazov }}</h3>
+  </div>
+   </a>
+  <div class="panel-body">
+    {{zadania.popis}}
+  </div>
+</div>
+</li>
+	{% endfor %}
+    </ul>
+
+<!-- 	<ul>
 	{% for zadania in site.data.zadania %}
  	 <li>
      	 <h3>{{ zadania.nazov }}</h3> <br> <em>{{zadania.popis}}</em>
      </li>
 	{% endfor %}
     </ul>
-	</ul>
+	</ul> -->

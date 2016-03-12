@@ -15,5 +15,3 @@ Takže čo sa v skratke stalo?
 
 Do konca ostáva 10 kôl a súboj o titul je stále otvorený minimálne pre 4 tímy na čele tabuľky. Moje 2 tipy na víťaza sú Tottenham a City. Stále mám pocit, že City má vo svojom tíme vodcov, ktorí by mohli dotiahnuť tím k titulu. A Tottenham je pre mňa úplne nevyspytateľný tak im dávam zákonite šancu tiež. Mám taktiež pocit, že Leicester už nezvládne posledných 10 zápasov a odpadne. No a Arsenal má "špecialistu na zlyhanie", takže asi toľko k nim :grin:. Tak tí statoční čo ste dočítali tento môj prvý príspevok o dianí v anglickej lige, veľká vďaka :grin: . Vidíme sa pri ďalšom reporte z diana "najlepšej" (0 tímov v štvrťfinále LM 2015 :grin: ) ligy na svete. :grin:  :grin:
 
-			
-<!-- {% youtube RXy9FTogf7M %} -->

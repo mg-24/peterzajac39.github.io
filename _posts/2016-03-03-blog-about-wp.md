@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog o WPUB."
+title: "Blog o WP."
 date: 2016-03-03
 ---
 

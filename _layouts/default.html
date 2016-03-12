@@ -9,6 +9,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <link rel="stylesheet" type="text/css" href="/css/main.css">
   <link rel="stylesheet" type="text/css" href="/css/bootstrap-social.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 </head>
 <body>
 
@@ -21,6 +22,7 @@
         <span class="icon-bar"></span>                        
       </button>
     </div>
+
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li><a href="/"><span class="glyphicon glyphicon-home"></span></a></li>
@@ -36,6 +38,7 @@
         </li>
         <li><a href="/zadania">Zadania WPUB</a></li>
       </ul>
+
     </div>
   </div>
 </nav>
@@ -56,13 +59,49 @@
   </div>
 </div>
 
-<footer class="container-fluid text-center">
-</a>
+<!-- <footer class="container-fluid text-center">
 	<ul>
-		<li><a href="mailto:hankquinlanhub@gmail.com">Môj email</a></li>
 		<li><a href="http://github.com/peterzajac39">Môj GitHub</a></li>
+		<li>{{ site.time | date_to_rfc822 }}</li>	
 	</ul>
-</footer>
+	<div class="footer-right">
+
+				<a href="#"><i class="fa fa-facebook"></i></a>
+				<a href="#"><i class="fa fa-twitter"></i></a>
+				<a href="#"><i class="fa fa-linkedin"></i></a>
+				<a href="#"><i class="fa fa-github"></i></a>
+
+			</div>
+</footer> -->
+
+
+<footer class="footer-distributed">
+
+			<div class="footer-right">
+
+				<a href="#"><i class="fa fa-facebook"></i></a>
+				<a href="#"><i class="fa fa-twitter"></i></a>
+				<a href="#"><i class="fa fa-linkedin"></i></a>
+				<a href="http://github.com/peterzajac39"><i class="fa fa-github"></i></a>
+
+			</div>
+
+			<div class="footer-left">
+
+				<p class="footer-links">
+					<a href="/"><span class="glyphicon glyphicon-home"></span></a>
+					.
+      				<a href="/about">O mne</a>
+					·
+					<a href="/blog">Blogy</a>
+					·
+					<a href="/zadania">Zadania WPUB</a>
+				</p>
+
+				<p>Peter Zajac &copy; 2016</p>
+			</div>
+
+		</footer>
 
 </body>
 </html>
